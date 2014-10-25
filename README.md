@@ -2,12 +2,14 @@ This are my emacs settings.
 
 
 Installation:
+
     cd ~/.emacs.d
     git submodule init
     git submodule update
 
 
 Add Plugin:
+
     cd ~/.emacs.d
     git submodule add <url> <plugin name>
     git add .
@@ -15,4 +17,5 @@ Add Plugin:
 
     
 In init.el:
-  (push "~/.emacs.d/<plugin name>" load-path)
+
+    (push "~/.emacs.d/<plugin name>" load-path)
