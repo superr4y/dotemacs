@@ -1,10 +1,8 @@
+;; General settings
 (cua-mode 1)
+(tool-bar-mode 0)
+(menu-bar-mode 0)
 
-
-;; EVIL m0de settings
-(push "~/.emacs.d/evil" load-path)
-(require 'evil)
-(evil-mode 1) 
 
 
 
@@ -21,3 +19,12 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+
+;; Plugin Settings
+
+;; evil mode 
+(push "~/.emacs.d/evil" load-path)
+(require 'evil)
+(evil-mode 1) 
+

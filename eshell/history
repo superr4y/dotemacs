@@ -1,4 +1,3 @@
-ls
 C:
 ls
 pwd
@@ -75,3 +74,55 @@ ls
 firfox
 cd d:/share/owncloud/
 ls
+ls
+ls
+ruby stirling.rb 
+ruby stirling.rb 
+ruby stirling.rb 
+ruby stirling.rb 
+ruby stirling.rb 
+ruby stirling.rb 
+ruby stirling.rb 
+ls
+ruby stirling.rb ls
+ls -a
+git  status
+git init
+git status
+git add .
+git commit -m "init commit"
+git config --global user.email superr4y@gmail.com
+git config --global user.name "Super Ray"
+git commit -m "init commit"
+git remote add origin https://github.com/superr4y/rub.git
+git push -u origin master
+ping 8.8.8.8
+cd ..
+ls
+cd owncloud/
+ls
+cd rub
+ls
+cd c:/git
+ls
+cd rub
+ls
+git status
+git push origin master
+cd c:/git/rub
+ls
+git push -u origin master
+ls
+cd c:/git/rub
+ls
+git status
+git status
+git status
+git add .
+git status
+git status
+git add .
+git status
+git commit -m "add #!/usr/bin/env ruby"
+git push origin master
+git push origin master
