@@ -1,0 +1,77 @@
+ls
+C:
+ls
+pwd
+top
+ls
+vi
+vim
+ls
+COPYING    cmdproxy.exe  ddeclient.exe  emacs.exe        emacsclientw.exe  hexl.exe    movemail.exe  runemacs.exe
+ls
+cd ..
+cd ..
+ls
+cd .
+cd ..
+ls
+cd .
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+ls
+ls
+ls
+cls
+clear
+clear
+ls
+type bootmgr
+type
+BOOTNXT       HashiCorp               Program Files  System Volume Information  Windows  bootmgr  pagefile.sys  vagrant
+ls
+netstat -an
+UDP    [fe80::1cc0:404d:91f:7645%15]:546  *:*                    
+ps
+ps aux
+ssh
+cd C:\ProgramData\chocolatey\bin
+ls
+putty.exe
+putty.exe --help
+putty.exe -h
+putty.exe -ssh cip_stoffel@www.et-cip.rub.de
+putty.exe -ssh -D 1080 cip_stoffel@www.et-cip.rub.de
+Aut2exe_x64.exe  PUTTY.exe        chocolatey.exe.old  ctags.exe        emacsclient.exe   wget.exe
+AutoIt3Help.exe  SciTE.exe        clist.exe           cup.exe          gvim.cmd          ls
+AutoHotkey.exe   PUTTYGEN.exe     cinst.exe           cuninst.exe      emacsclientw.exe  
+Aut2exe_x64.exe  PUTTY.exe        chocolatey.exe.old  ctags.exe        emacsclient.exe   wget.exels
+putty.exels
+ls
+ls
+putty&
+putty -ssh -D 1080 cip_stoffel@www.et-cip.rub.de
+putty -ssh -D 1080 cip_stoffel@www.et-cip.rub.de&
+pwdputty -ssh -D 1080 cip_stoffel@www.et-cip.rub.de&
+pwd
+c:/ProgramData/chocolatey/bin
+ls
+cd ..
+firefox www.google.de
+firefox
+cd bin
+ls
+firefox
+chromium
+set
+path
+cd ..
+ls
+cd ..
+cd ..
+ls
+firfox
+cd d:/share/owncloud/
+ls
