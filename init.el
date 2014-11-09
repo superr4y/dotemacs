@@ -1,7 +1,11 @@
 ;; General settings
-(cua-mode 1)
+(cua-mode 0)
 (tool-bar-mode 0)
 (menu-bar-mode 0)
+
+(setq ispell-dictionary "deutsch8")
+(setq ispell-local-dictionary "deutsch8")
+(setq flyspell-default-dictionary "deutsch8")
 
 
 
